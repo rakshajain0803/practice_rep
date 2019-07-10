@@ -1,0 +1,7 @@
+public class rendom10_july
+{
+public static void main(String args[])
+{
+System.out.println("rendon 10 july demo printing")
+}
+}
